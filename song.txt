@@ -11,5 +11,10 @@ On another love, another love
 
 --------------------------------------
 
+feature
 And if somebody hurts you, I wanna fight
 But my hands been broken one too many times
+
+main
+So I'll use my voice, I'll be so fucking rude
+Words they always win, but I know I'll lose
